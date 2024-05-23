@@ -1,0 +1,4308 @@
+{
+    "H": {
+        "MagneticType": "反磁性",
+        "Homo": "-13.61 eV",
+        "Lumo": "-3.35 eV",
+        "HomoLumoGap": "10.26 eV",
+        "HeatOfFusion": "0.558 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "1": {
+                    "only_spin": -0.38
+                },
+                "2": {
+                    "only_spin": -0.18
+                }
+            }
+        },
+        "electric_pol": 0.666793,
+        "Valence": {
+            "1": {
+                "s": 0.349,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 0.349
+            }
+        }
+    },
+    "He": {
+        "MagneticType": "反磁性",
+        "HeatOfFusion": "0.02 kJ/mol",
+        "electric_pol": 0.2050522
+    },
+    "Li": {
+        "MagneticType": "顺磁性",
+        "Homo": "-64.06 eV",
+        "Lumo": "-7.03 eV",
+        "HomoLumoGap": "57.02 eV",
+        "HeatOfFusion": "3 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "4": {
+                    "only_spin": 0.59
+                },
+                "6": {
+                    "only_spin": 0.76
+                },
+                "8": {
+                    "only_spin": 0.92
+                }
+            }
+        },
+        "electric_pol": 24.33,
+        "Valence": {
+            "1": {
+                "s": 1.98,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.98
+            }
+        }
+    },
+    "Be": {
+        "MagneticType": "反磁性",
+        "Homo": "-137.27 eV",
+        "Lumo": "-21.61 eV",
+        "HomoLumoGap": "115.66 eV",
+        "HeatOfFusion": "7.95 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "3": {
+                    "only_spin": 0.16
+                },
+                "4": {
+                    "only_spin": 0.27
+                },
+                "6": {
+                    "only_spin": 0.45
+                }
+            }
+        },
+        "electric_pol": 5.6,
+        "Valence": {
+            "2": {
+                "s": 0.669,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 0.669
+            }
+        }
+    },
+    "B": {
+        "MagneticType": "反磁性",
+        "Homo": "-237.69 eV",
+        "Lumo": "-43.27 eV",
+        "HomoLumoGap": "194.42 eV",
+        "HeatOfFusion": "50 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "3": {
+                    "only_spin": 0.01
+                },
+                "4": {
+                    "only_spin": 0.11
+                },
+                "6": {
+                    "only_spin": 0.27
+                }
+            }
+        },
+        "electric_pol": 3.03,
+        "Valence": {
+            "3": {
+                "s": 0.954,
+                "p": 0.375,
+                "d": 0.0,
+                "tot": 1.329
+            }
+        }
+    },
+    "C": {
+        "MagneticType": "反磁性",
+        "Homo": "-365.32 eV",
+        "Lumo": "-71.99 eV",
+        "HomoLumoGap": "293.34 eV",
+        "HeatOfFusion": "105 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "3": {
+                    "only_spin": -0.08
+                },
+                "4": {
+                    "only_spin": 0.15
+                },
+                "6": {
+                    "only_spin": 0.16
+                }
+            }
+        },
+        "electric_pol": 1.67,
+        "Valence": {
+            "4": {
+                "s": 1.063,
+                "p": 0.915,
+                "d": 0.0,
+                "tot": 1.979
+            }
+        }
+    },
+    "N": {
+        "MagneticType": "反磁性",
+        "Homo": "-69.86 eV",
+        "Lumo": "-55.36 eV",
+        "HomoLumoGap": "14.5 eV",
+        "HeatOfFusion": "0.36 kJ/mol",
+        "Shannon_radii": {
+            "5": {
+                "3": {
+                    "only_spin": -0.10400000000000001
+                },
+                "4": {
+                    "only_spin": 0.13
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.16
+                }
+            },
+            "-3": {
+                "4": {
+                    "only_spin": 1.46
+                }
+            }
+        },
+        "electric_pol": 1.1,
+        "Valence": {
+            "5": {
+                "s": 1.384,
+                "p": 1.837,
+                "d": 0.0,
+                "tot": 3.222
+            },
+            "3": {
+                "s": 1.555,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.555
+            },
+            "-3": {
+                "s": 1.318,
+                "p": 2.066,
+                "d": 0.0,
+                "tot": 3.384
+            }
+        }
+    },
+    "O": {
+        "MagneticType": "顺磁性",
+        "Homo": "6.9 eV",
+        "Lumo": "10.32 eV",
+        "HomoLumoGap": "3.42 eV",
+        "HeatOfFusion": "0.222 kJ/mol",
+        "Shannon_radii": {
+            "-2": {
+                "2": {
+                    "only_spin": 1.35
+                },
+                "3": {
+                    "only_spin": 1.36
+                },
+                "4": {
+                    "only_spin": 1.38
+                },
+                "6": {
+                    "only_spin": 1.4
+                },
+                "8": {
+                    "only_spin": 1.42
+                }
+            }
+        },
+        "electric_pol": 0.802,
+        "Valence": {
+            "-2": {
+                "s": 1.581,
+                "p": 3.183,
+                "d": 0.0,
+                "tot": 4.764
+            }
+        }
+    },
+    "F": {
+        "MagneticType": "N/A",
+        "Homo": "0.0 eV",
+        "Lumo": "7.32 eV",
+        "HomoLumoGap": "7.32 eV",
+        "HeatOfFusion": "0.26 kJ/mol",
+        "Shannon_radii": {
+            "-1": {
+                "2": {
+                    "only_spin": 1.285
+                },
+                "3": {
+                    "only_spin": 1.3
+                },
+                "4": {
+                    "only_spin": 1.31
+                },
+                "6": {
+                    "only_spin": 1.33
+                }
+            },
+            "7": {
+                "6": {
+                    "only_spin": 0.08
+                }
+            }
+        },
+        "electric_pol": 0.557,
+        "Valence": {
+            "-1": {
+                "s": 1.733,
+                "p": 4.293,
+                "d": 0.0,
+                "tot": 6.026
+            },
+            "7": {
+                "s": 1.764,
+                "p": 3.992,
+                "d": 0.0,
+                "tot": 5.755
+            }
+        }
+    },
+    "Ne": {
+        "MagneticType": "反磁性",
+        "HeatOfFusion": "0.34 kJ/mol",
+        "electric_pol": 0.39432
+    },
+    "Na": {
+        "MagneticType": "顺磁性",
+        "Homo": "-39.27 eV",
+        "Lumo": "-7.21 eV",
+        "HomoLumoGap": "32.05 eV",
+        "HeatOfFusion": "2.6 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "4": {
+                    "only_spin": 0.99
+                },
+                "5": {
+                    "only_spin": 1.0
+                },
+                "6": {
+                    "only_spin": 1.02
+                },
+                "7": {
+                    "only_spin": 1.12
+                },
+                "8": {
+                    "only_spin": 1.18
+                },
+                "9": {
+                    "only_spin": 1.24
+                },
+                "12": {
+                    "only_spin": 1.39
+                }
+            }
+        },
+        "electric_pol": 24.11,
+        "Valence": {
+            "1": {
+                "s": 0.0,
+                "p": 5.943,
+                "d": 0.0,
+                "tot": 5.943
+            }
+        }
+    },
+    "Mg": {
+        "MagneticType": "顺磁性",
+        "Homo": "-70.16 eV",
+        "Lumo": "-18.3 eV",
+        "HomoLumoGap": "51.85 eV",
+        "HeatOfFusion": "8.7 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.57
+                },
+                "5": {
+                    "only_spin": 0.66
+                },
+                "6": {
+                    "only_spin": 0.72
+                },
+                "8": {
+                    "only_spin": 0.89
+                }
+            }
+        },
+        "electric_pol": 10.6,
+        "Valence": {
+            "2": {
+                "s": 0.356,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 0.356
+            }
+        }
+    },
+    "Al": {
+        "MagneticType": "顺磁性",
+        "Homo": "-108.11 eV",
+        "Lumo": "-32.8 eV",
+        "HomoLumoGap": "75.3 eV",
+        "HeatOfFusion": "10.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "4": {
+                    "only_spin": 0.39
+                },
+                "5": {
+                    "only_spin": 0.48
+                },
+                "6": {
+                    "only_spin": 0.535
+                }
+            }
+        },
+        "electric_pol": 6.8,
+        "Valence": {
+            "3": {
+                "s": 0.621,
+                "p": 0.123,
+                "d": 0.0,
+                "tot": 0.744
+            }
+        }
+    },
+    "Si": {
+        "MagneticType": "反磁性",
+        "Homo": "-153.03 eV",
+        "Lumo": "-50.54 eV",
+        "HomoLumoGap": "102.48 eV",
+        "HeatOfFusion": "50.2 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "4": {
+                    "only_spin": 0.26
+                },
+                "6": {
+                    "only_spin": 0.4
+                }
+            }
+        },
+        "electric_pol": 5.53,
+        "Valence": {
+            "4": {
+                "s": 0.953,
+                "p": 0.531,
+                "d": 0.0,
+                "tot": 1.484
+            }
+        }
+    },
+    "P": {
+        "MagneticType": "反磁性",
+        "Homo": "-204.88 eV",
+        "Lumo": "-71.47 eV",
+        "HomoLumoGap": "133.41 eV",
+        "HeatOfFusion": "0.64 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.44
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.17
+                },
+                "5": {
+                    "only_spin": 0.29
+                },
+                "6": {
+                    "only_spin": 0.38
+                }
+            }
+        },
+        "electric_pol": 3.63,
+        "Valence": {
+            "3": {
+                "s": 1.362,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.362
+            },
+            "5": {
+                "s": 1.157,
+                "p": 1.142,
+                "d": 0.0,
+                "tot": 2.299
+            }
+        }
+    },
+    "S": {
+        "MagneticType": "反磁性",
+        "Homo": "5.26 eV",
+        "Lumo": "8.51 eV",
+        "HomoLumoGap": "3.24 eV",
+        "HeatOfFusion": "1.73 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.37
+                }
+            },
+            "-2": {
+                "6": {
+                    "only_spin": 1.84
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.12
+                },
+                "6": {
+                    "only_spin": 0.29
+                }
+            }
+        },
+        "electric_pol": 2.9,
+        "Valence": {
+            "4": {
+                "s": 1.597,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.597
+            },
+            "-2": {
+                "s": 1.336,
+                "p": 2.329,
+                "d": 0.0,
+                "tot": 3.665
+            },
+            "6": {
+                "s": 1.403,
+                "p": 2.073,
+                "d": 0.0,
+                "tot": 3.475
+            }
+        }
+    },
+    "Cl": {
+        "MagneticType": "反磁性",
+        "Homo": "-0.77 eV",
+        "Lumo": "5.83 eV",
+        "HomoLumoGap": "6.6 eV",
+        "HeatOfFusion": "3.2 kJ/mol",
+        "Shannon_radii": {
+            "5": {
+                "3": {
+                    "only_spin": 0.12
+                }
+            },
+            "-1": {
+                "6": {
+                    "only_spin": 1.81
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.08
+                },
+                "6": {
+                    "only_spin": 0.27
+                }
+            }
+        },
+        "electric_pol": 2.18,
+        "Valence": {
+            "5": {
+                "s": 1.733,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.733
+            },
+            "-1": {
+                "s": 1.59,
+                "p": 3.537,
+                "d": 0.0,
+                "tot": 5.127
+            },
+            "7": {
+                "s": 1.625,
+                "p": 3.278,
+                "d": 0.0,
+                "tot": 4.902
+            }
+        }
+    },
+    "Ar": {
+        "MagneticType": "反磁性",
+        "HeatOfFusion": "1.18 kJ/mol",
+        "electric_pol": 1.6411
+    },
+    "K": {
+        "MagneticType": "顺磁性",
+        "Homo": "-26.53 eV",
+        "Lumo": "-6.04 eV",
+        "HomoLumoGap": "20.48 eV",
+        "HeatOfFusion": "2.33 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "4": {
+                    "only_spin": 1.37
+                },
+                "6": {
+                    "only_spin": 1.38
+                },
+                "7": {
+                    "only_spin": 1.46
+                },
+                "8": {
+                    "only_spin": 1.51
+                },
+                "9": {
+                    "only_spin": 1.55
+                },
+                "10": {
+                    "only_spin": 1.59
+                },
+                "12": {
+                    "only_spin": 1.64
+                }
+            }
+        },
+        "electric_pol": 43.06,
+        "Valence": {
+            "1": {
+                "s": 1.943,
+                "p": 5.561,
+                "d": 0.0,
+                "tot": 7.504
+            }
+        }
+    },
+    "Ca": {
+        "MagneticType": "顺磁性",
+        "Homo": "-44.93 eV",
+        "Lumo": "-14.26 eV",
+        "HomoLumoGap": "30.67 eV",
+        "HeatOfFusion": "8.54 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.0
+                },
+                "7": {
+                    "only_spin": 1.06
+                },
+                "8": {
+                    "only_spin": 1.12
+                },
+                "9": {
+                    "only_spin": 1.18
+                },
+                "10": {
+                    "only_spin": 1.23
+                },
+                "12": {
+                    "only_spin": 1.34
+                }
+            }
+        },
+        "electric_pol": 22.8,
+        "Valence": {
+            "2": {
+                "s": 1.974,
+                "p": 5.805,
+                "d": 0.0,
+                "tot": 7.779
+            }
+        }
+    },
+    "Sc": {
+        "MagneticType": "顺磁性",
+        "Homo": "-66.69 eV",
+        "Lumo": "-30.74 eV",
+        "HomoLumoGap": "35.94 eV",
+        "HeatOfFusion": "16 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.745
+                },
+                "8": {
+                    "only_spin": 0.87
+                }
+            }
+        },
+        "electric_pol": 17.8,
+        "Valence": {
+            "3": {
+                "s": 1.993,
+                "p": 5.932,
+                "d": 0.0,
+                "tot": 7.925
+            }
+        }
+    },
+    "Ti": {
+        "MagneticType": "顺磁性",
+        "Homo": "-91.7 eV",
+        "Lumo": "-50.4 eV",
+        "HomoLumoGap": "41.29 eV",
+        "HeatOfFusion": "18.7 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 0.86
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.67
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.42
+                },
+                "5": {
+                    "only_spin": 0.51
+                },
+                "6": {
+                    "only_spin": 0.605
+                },
+                "8": {
+                    "only_spin": 0.74
+                }
+            }
+        },
+        "electric_pol": 14.6,
+        "Valence": {
+            "2": {
+                "s": 1.992,
+                "p": 5.924,
+                "d": 1.752,
+                "tot": 9.668
+            },
+            "3": {
+                "s": 1.991,
+                "p": 5.928,
+                "d": 0.928,
+                "tot": 8.847
+            },
+            "4": {
+                "s": 1.992,
+                "p": 5.929,
+                "d": 0.0,
+                "tot": 7.921
+            }
+        }
+    },
+    "V": {
+        "MagneticType": "顺磁性",
+        "Homo": "-119.91 eV",
+        "Lumo": "-73.48 eV",
+        "HomoLumoGap": "46.43 eV",
+        "HeatOfFusion": "22.8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 0.79
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.64
+                }
+            },
+            "4": {
+                "5": {
+                    "only_spin": 0.53
+                },
+                "6": {
+                    "only_spin": 0.58
+                },
+                "8": {
+                    "only_spin": 0.72
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.355
+                },
+                "5": {
+                    "only_spin": 0.46
+                },
+                "6": {
+                    "only_spin": 0.54
+                }
+            }
+        },
+        "electric_pol": 12.4,
+        "Valence": {
+            "2": {
+                "s": 1.995,
+                "p": 5.957,
+                "d": 2.747,
+                "tot": 10.7
+            },
+            "3": {
+                "s": 1.992,
+                "p": 5.939,
+                "d": 1.897,
+                "tot": 9.828
+            },
+            "4": {
+                "s": 1.989,
+                "p": 5.919,
+                "d": 0.964,
+                "tot": 8.872
+            },
+            "5": {
+                "s": 1.988,
+                "p": 5.91,
+                "d": 0.0,
+                "tot": 7.899
+            }
+        }
+    },
+    "Cr": {
+        "MagneticType": "反铁磁性",
+        "Homo": "-42.87 eV",
+        "Lumo": "-35.76 eV",
+        "HomoLumoGap": "7.12 eV",
+        "HeatOfFusion": "20.5 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "LS": 0.73,
+                    "HS": 0.8,
+                    "only_spin": 0.8
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.615
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.41
+                },
+                "6": {
+                    "only_spin": 0.55
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.345
+                },
+                "6": {
+                    "only_spin": 0.49
+                },
+                "8": {
+                    "only_spin": 0.57
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.26
+                },
+                "6": {
+                    "only_spin": 0.44
+                }
+            }
+        },
+        "electric_pol": 11.6,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 5.971,
+                "d": 3.748,
+                "tot": 9.719
+            },
+            "3": {
+                "s": 0.0,
+                "p": 5.951,
+                "d": 2.881,
+                "tot": 8.832
+            },
+            "4": {
+                "s": 0.0,
+                "p": 5.934,
+                "d": 1.943,
+                "tot": 7.878
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.936,
+                "d": 0.982,
+                "tot": 6.918
+            },
+            "6": {
+                "s": 0.0,
+                "p": 5.963,
+                "d": 0.0,
+                "tot": 5.963
+            }
+        }
+    },
+    "Mn": {
+        "MagneticType": "顺磁性",
+        "Homo": "-62.7 eV",
+        "Lumo": "-58.97 eV",
+        "HomoLumoGap": "3.73 eV",
+        "HeatOfFusion": "13.2 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "HS": 0.66,
+                    "only_spin": 0.66
+                },
+                "5": {
+                    "HS": 0.75,
+                    "only_spin": 0.75
+                },
+                "6": {
+                    "LS": 0.67,
+                    "HS": 0.83,
+                    "only_spin": 0.83
+                },
+                "7": {
+                    "HS": 0.9,
+                    "only_spin": 0.9
+                },
+                "8": {
+                    "only_spin": 0.96
+                }
+            },
+            "3": {
+                "5": {
+                    "only_spin": 0.58
+                },
+                "6": {
+                    "LS": 0.58,
+                    "HS": 0.645,
+                    "only_spin": 0.645
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.39
+                },
+                "6": {
+                    "only_spin": 0.53
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.33
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.255
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.25
+                },
+                "6": {
+                    "only_spin": 0.46
+                }
+            }
+        },
+        "electric_pol": 9.4,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 5.975,
+                "d": 4.719,
+                "tot": 10.693
+            },
+            "3": {
+                "s": 0.0,
+                "p": 5.962,
+                "d": 3.866,
+                "tot": 9.828
+            },
+            "4": {
+                "s": 0.0,
+                "p": 5.951,
+                "d": 2.933,
+                "tot": 8.885
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.953,
+                "d": 1.972,
+                "tot": 7.925
+            },
+            "6": {
+                "s": 0.0,
+                "p": 5.972,
+                "d": 0.994,
+                "tot": 6.966
+            },
+            "7": {
+                "s": 0.0,
+                "p": 6.008,
+                "d": 0.0,
+                "tot": 6.008
+            }
+        }
+    },
+    "Fe": {
+        "MagneticType": "铁磁性",
+        "Homo": "-47.51 eV",
+        "Lumo": "-37.39 eV",
+        "HomoLumoGap": "10.12 eV",
+        "HeatOfFusion": "13.8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "HS": 0.63,
+                    "only_spin": 0.63
+                },
+                "6": {
+                    "LS": 0.61,
+                    "HS": 0.78,
+                    "only_spin": 0.78
+                },
+                "8": {
+                    "HS": 0.92,
+                    "only_spin": 0.92
+                }
+            },
+            "3": {
+                "4": {
+                    "HS": 0.49,
+                    "only_spin": 0.49
+                },
+                "5": {
+                    "only_spin": 0.58
+                },
+                "6": {
+                    "LS": 0.55,
+                    "HS": 0.645,
+                    "only_spin": 0.645
+                },
+                "8": {
+                    "HS": 0.78,
+                    "only_spin": 0.78
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.585
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.25
+                }
+            }
+        },
+        "electric_pol": 8.4,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.749,
+                "tot": 5.749
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 4.844,
+                "tot": 4.844
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 3.939,
+                "tot": 3.939
+            },
+            "6": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 2.1,
+                "tot": 2.1
+            }
+        }
+    },
+    "Co": {
+        "MagneticType": "铁磁性",
+        "Homo": "-47.85 eV",
+        "Lumo": "-40.36 eV",
+        "HomoLumoGap": "7.49 eV",
+        "HeatOfFusion": "16.2 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "HS": 0.58,
+                    "only_spin": 0.58
+                },
+                "5": {
+                    "only_spin": 0.67
+                },
+                "6": {
+                    "LS": 0.65,
+                    "HS": 0.745,
+                    "only_spin": 0.745
+                },
+                "8": {
+                    "only_spin": 0.9
+                }
+            },
+            "3": {
+                "6": {
+                    "LS": 0.545,
+                    "HS": 0.61,
+                    "only_spin": 0.61
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.4
+                },
+                "6": {
+                    "HS": 0.53,
+                    "only_spin": 0.53
+                }
+            }
+        },
+        "electric_pol": 7.5,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 6.753,
+                "tot": 6.753
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.851,
+                "tot": 5.851
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 4.934,
+                "tot": 4.934
+            }
+        }
+    },
+    "Ni": {
+        "MagneticType": "铁磁性",
+        "Homo": "-31.07 eV",
+        "Lumo": "-23.65 eV",
+        "HomoLumoGap": "7.42 eV",
+        "HeatOfFusion": "17.2 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.55
+                },
+                "5": {
+                    "only_spin": 0.63
+                },
+                "6": {
+                    "only_spin": 0.69
+                }
+            },
+            "3": {
+                "6": {
+                    "LS": 0.56,
+                    "HS": 0.6,
+                    "only_spin": 0.6
+                }
+            },
+            "4": {
+                "6": {
+                    "LS": 0.48,
+                    "only_spin": 0.48
+                }
+            }
+        },
+        "electric_pol": 6.8,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.769,
+                "tot": 7.769
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 6.857,
+                "tot": 6.857
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.942,
+                "tot": 5.942
+            }
+        }
+    },
+    "Cu": {
+        "MagneticType": "反磁性",
+        "Homo": "-31.72 eV",
+        "Lumo": "-25.95 eV",
+        "HomoLumoGap": "5.77 eV",
+        "HeatOfFusion": "13.1 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "2": {
+                    "only_spin": 0.46
+                },
+                "4": {
+                    "only_spin": 0.6
+                },
+                "6": {
+                    "only_spin": 0.77
+                }
+            },
+            "2": {
+                "4": {
+                    "only_spin": 0.57
+                },
+                "5": {
+                    "only_spin": 0.65
+                },
+                "6": {
+                    "only_spin": 0.73
+                }
+            },
+            "3": {
+                "6": {
+                    "LS": 0.54,
+                    "only_spin": 0.54
+                }
+            }
+        },
+        "electric_pol": 6.2,
+        "Valence": {
+            "1": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.544,
+                "tot": 9.544
+            },
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 8.782,
+                "tot": 8.782
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.876,
+                "tot": 7.876
+            }
+        }
+    },
+    "Zn": {
+        "MagneticType": "反磁性",
+        "Homo": "-33.33 eV",
+        "Lumo": "-22.2 eV",
+        "HomoLumoGap": "11.14 eV",
+        "HeatOfFusion": "7.35 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.6
+                },
+                "5": {
+                    "only_spin": 0.68
+                },
+                "6": {
+                    "only_spin": 0.74
+                },
+                "8": {
+                    "only_spin": 0.9
+                }
+            }
+        },
+        "electric_pol": 5.75,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.827,
+                "tot": 9.827
+            }
+        }
+    },
+    "Ga": {
+        "MagneticType": "反磁性",
+        "Homo": "-55.38 eV",
+        "Lumo": "-35.7 eV",
+        "HomoLumoGap": "19.67 eV",
+        "HeatOfFusion": "5.59 kJ/mol",
+        "Shannon_radii": {
+
+            "3": {
+                "4": {
+                    "only_spin": 0.47
+                },
+                "5": {
+                    "only_spin": 0.55
+                },
+                "6": {
+                    "only_spin": 0.62
+                }
+            }
+        },
+        "electric_pol": 8.12,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.944,
+                "tot": 9.944
+            }
+        }
+    },
+    "Ge": {
+        "MagneticType": "反磁性",
+        "Homo": "-30.3 eV",
+        "Lumo": "-19.16 eV",
+        "HomoLumoGap": "11.15 eV",
+        "HeatOfFusion": "31.8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 0.73
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.39
+                },
+                "6": {
+                    "only_spin": 0.53
+                }
+            }
+        },
+        "electric_pol": 5.84,
+        "Valence": {
+            "2": {
+                "s": 1.456,
+                "p": 0.0,
+                "d": 9.961,
+                "tot": 11.417
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.963,
+                "tot": 9.963
+            }
+        }
+    },
+    "As": {
+        "MagneticType": "反磁性",
+        "Homo": "-45.62 eV",
+        "Lumo": "-32.12 eV",
+        "HomoLumoGap": "13.5 eV",
+        "HeatOfFusion": "27.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.58
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.335
+                },
+                "6": {
+                    "only_spin": 0.46
+                }
+            }
+        },
+        "electric_pol": 4.31,
+        "Valence": {
+            "3": {
+                "s": 1.508,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.508
+            },
+            "5": {
+                "s": 1.327,
+                "p": 1.196,
+                "d": 0.0,
+                "tot": 2.523
+            }
+        }
+    },
+    "Se": {
+        "MagneticType": "反磁性",
+        "Homo": "4.92 eV",
+        "Lumo": "8.05 eV",
+        "HomoLumoGap": "3.13 eV",
+        "HeatOfFusion": "5.4 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.5
+                }
+            },
+            "-2": {
+                "6": {
+                    "only_spin": 1.98
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.28
+                },
+                "6": {
+                    "only_spin": 0.42
+                }
+            }
+        },
+        "electric_pol": 3.77,
+        "Valence": {
+            "4": {
+                "s": 1.669,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.669
+            },
+            "-2": {
+                "s": 1.449,
+                "p": 2.351,
+                "d": 0.0,
+                "tot": 3.799
+            },
+            "6": {
+                "s": 1.506,
+                "p": 2.064,
+                "d": 0.0,
+                "tot": 3.57
+            }
+        }
+    },
+    "Br": {
+        "MagneticType": "反磁性",
+        "Homo": "-0.79 eV",
+        "Lumo": "5.37 eV",
+        "HomoLumoGap": "6.16 eV",
+        "HeatOfFusion": "5.8 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "4": {
+                    "only_spin": 0.59
+                }
+            },
+            "5": {
+                "3": {
+                    "only_spin": 0.31
+                }
+            },
+            "-1": {
+                "6": {
+                    "only_spin": 1.96
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.25
+                },
+                "6": {
+                    "only_spin": 0.39
+                }
+            }
+        },
+        "electric_pol": 3.05,
+        "Valence": {
+            "3": {
+                "s": 1.714,
+                "p": 1.504,
+                "d": 0.0,
+                "tot": 3.218
+            },
+            "5": {
+                "s": 1.732,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.732
+            },
+            "-1": {
+                "s": 1.601,
+                "p": 3.279,
+                "d": 0.0,
+                "tot": 4.88
+            },
+            "7": {
+                "s": 1.63,
+                "p": 3.038,
+                "d": 0.0,
+                "tot": 4.668
+            }
+        }
+    },
+    "Kr": {
+        "MagneticType": "反磁性",
+        "HeatOfFusion": "1.64 kJ/mol",
+        "electric_pol": 2.4844
+    },
+    "Rb": {
+        "MagneticType": "顺磁性",
+        "Homo": "-23.04 eV",
+        "Lumo": "-5.84 eV",
+        "HomoLumoGap": "17.2 eV",
+        "HeatOfFusion": "2.19 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.52
+                },
+                "7": {
+                    "only_spin": 1.56
+                },
+                "8": {
+                    "only_spin": 1.61
+                },
+                "9": {
+                    "only_spin": 1.63
+                },
+                "10": {
+                    "only_spin": 1.66
+                },
+                "11": {
+                    "only_spin": 1.69
+                },
+                "12": {
+                    "only_spin": 1.72
+                },
+                "14": {
+                    "only_spin": 1.83
+                }
+            }
+        },
+        "electric_pol": 47.24,
+        "Valence": {
+            "1": {
+                "s": 1.927,
+                "p": 5.345,
+                "d": 0.0,
+                "tot": 7.272
+            }
+        }
+    },
+    "Sr": {
+        "MagneticType": "顺磁性",
+        "Homo": "-38.06 eV",
+        "Lumo": "-13.34 eV",
+        "HomoLumoGap": "24.72 eV",
+        "HeatOfFusion": "8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.18
+                },
+                "7": {
+                    "only_spin": 1.21
+                },
+                "8": {
+                    "only_spin": 1.26
+                },
+                "9": {
+                    "only_spin": 1.31
+                },
+                "10": {
+                    "only_spin": 1.36
+                },
+                "12": {
+                    "only_spin": 1.44
+                }
+            }
+        },
+        "electric_pol": 27.6,
+        "Valence": {
+            "2": {
+                "s": 1.961,
+                "p": 5.725,
+                "d": 0.0,
+                "tot": 7.686
+            }
+        }
+    },
+    "Y": {
+        "MagneticType": "顺磁性",
+        "Homo": "-55.3 eV",
+        "Lumo": "-24.68 eV",
+        "HomoLumoGap": "30.62 eV",
+        "HeatOfFusion": "11.4 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.9
+                },
+                "7": {
+                    "only_spin": 0.96
+                },
+                "8": {
+                    "only_spin": 1.0190000000000001
+                },
+                "9": {
+                    "only_spin": 1.075
+                }
+            }
+        },
+        "electric_pol": 22.7,
+        "Valence": {
+            "3": {
+                "s": 1.99,
+                "p": 5.833,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.824
+            }
+        }
+    },
+    "Zr": {
+        "MagneticType": "顺磁性",
+        "Homo": "-74.62 eV",
+        "Lumo": "-39.24 eV",
+        "HomoLumoGap": "35.39 eV",
+        "HeatOfFusion": "21 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "4": {
+                    "only_spin": 0.59
+                },
+                "5": {
+                    "only_spin": 0.66
+                },
+                "6": {
+                    "only_spin": 0.72
+                },
+                "7": {
+                    "only_spin": 0.78
+                },
+                "8": {
+                    "only_spin": 0.84
+                },
+                "9": {
+                    "only_spin": 0.89
+                }
+            }
+        },
+        "electric_pol": 17.9,
+        "Valence": {
+            "4": {
+                "s": 1.987,
+                "p": 5.896,
+                "d": 0.0,
+                "tot": 7.883
+            }
+        }
+    },
+    "Nb": {
+        "MagneticType": "顺磁性",
+        "Homo": "-95.95 eV",
+        "Lumo": "-55.96 eV",
+        "HomoLumoGap": "39.98 eV",
+        "HeatOfFusion": "26.8 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.72
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.68
+                },
+                "8": {
+                    "only_spin": 0.79
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.48
+                },
+                "6": {
+                    "only_spin": 0.64
+                },
+                "7": {
+                    "only_spin": 0.69
+                },
+                "8": {
+                    "only_spin": 0.74
+                }
+            }
+        },
+        "electric_pol": 15.7,
+        "Valence": {
+            "3": {
+                "s": 1.987,
+                "p": 5.882,
+                "d": 1.66,
+                "tot": 9.528
+            },
+            "4": {
+                "s": 1.986,
+                "p": 5.89,
+                "d": 0.85,
+                "tot": 8.725
+            },
+            "5": {
+                "s": 1.983,
+                "p": 5.889,
+                "d": 0.0,
+                "tot": 7.873
+            }
+        }
+    },
+    "Mo": {
+        "MagneticType": "顺磁性",
+        "Homo": "-47.13 eV",
+        "Lumo": "-45.62 eV",
+        "HomoLumoGap": "1.52 eV",
+        "HeatOfFusion": "36 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.69
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.65
+                }
+            },
+            "5": {
+                "4": {
+                    "only_spin": 0.46
+                },
+                "6": {
+                    "only_spin": 0.61
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.41
+                },
+                "5": {
+                    "only_spin": 0.5
+                },
+                "6": {
+                    "only_spin": 0.59
+                },
+                "7": {
+                    "only_spin": 0.73
+                }
+            }
+        },
+        "electric_pol": 12.8,
+        "Valence": {
+            "3": {
+                "s": 1.993,
+                "p": 5.95,
+                "d": 2.719,
+                "tot": 10.662
+            },
+            "4": {
+                "s": 1.989,
+                "p": 5.939,
+                "d": 1.85,
+                "tot": 9.778
+            },
+            "5": {
+                "s": 1.984,
+                "p": 5.923,
+                "d": 0.934,
+                "tot": 8.841
+            },
+            "6": {
+                "s": 1.978,
+                "p": 5.904,
+                "d": 0.0,
+                "tot": 7.883
+            }
+        }
+    },
+    "Tc": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "23 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.645
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.6
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.37
+                },
+                "6": {
+                    "only_spin": 0.56
+                }
+            }
+        },
+        "electric_pol": 11.4,
+        "Valence": {
+            "4": {
+                "s": 0.0,
+                "p": 5.958,
+                "d": 2.827,
+                "tot": 8.785
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.955,
+                "d": 1.899,
+                "tot": 7.854
+            },
+            "7": {
+                "s": 0.0,
+                "p": 5.975,
+                "d": 0.0,
+                "tot": 5.975
+            }
+        }
+    },
+    "Ru": {
+        "MagneticType": "顺磁性",
+        "Homo": "-40.37 eV",
+        "Lumo": "-33.46 eV",
+        "HomoLumoGap": "6.91 eV",
+        "HeatOfFusion": "25.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.68
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.62
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.565
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.38
+                }
+            },
+            "8": {
+                "4": {
+                    "only_spin": 0.36
+                }
+            }
+        },
+        "electric_pol": 9.6,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.959,
+                "d": 4.678,
+                "tot": 10.637
+            },
+            "4": {
+                "s": 0.0,
+                "p": 5.946,
+                "d": 3.797,
+                "tot": 9.743
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.932,
+                "d": 2.873,
+                "tot": 8.806
+            },
+            "7": {
+                "s": 6.977,
+                "p": 5.93,
+                "d": 0.0,
+                "tot": 12.907
+            },
+            "8": {
+                "s": 0.0,
+                "p": 5.926,
+                "d": 0.0,
+                "tot": 5.926
+            }
+        }
+    },
+    "Rh": {
+        "MagneticType": "顺磁性",
+        "Homo": "-41.37 eV",
+        "Lumo": "-36.26 eV",
+        "HomoLumoGap": "5.11 eV",
+        "HeatOfFusion": "21.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.665
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.6
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.55
+                }
+            }
+        },
+        "electric_pol": 8.6,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.968,
+                "d": 5.683,
+                "tot": 11.651
+            },
+            "4": {
+                "s": 0.0,
+                "p": 5.955,
+                "d": 4.777,
+                "tot": 10.733
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.944,
+                "d": 3.846,
+                "tot": 9.79
+            }
+        }
+    },
+    "Pd": {
+        "MagneticType": "顺磁性",
+        "Homo": "-29.25 eV",
+        "Lumo": "-24.22 eV",
+        "HomoLumoGap": "5.03 eV",
+        "HeatOfFusion": "16.7 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "2": {
+                    "only_spin": 0.59
+                }
+            },
+            "2": {
+                "4": {
+                    "only_spin": 0.64
+                },
+                "6": {
+                    "only_spin": 0.86
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.76
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.615
+                }
+            }
+        },
+        "electric_pol": 4.8,
+        "Valence": {
+            "1": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 8.515,
+                "tot": 8.515
+            },
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.656,
+                "tot": 7.656
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 6.721,
+                "tot": 6.721
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.784,
+                "tot": 5.784
+            }
+        }
+    },
+    "Ag": {
+        "MagneticType": "反磁性",
+        "Homo": "-17.2 eV",
+        "Lumo": "-10.56 eV",
+        "HomoLumoGap": "6.65 eV",
+        "HeatOfFusion": "11.3 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "2": {
+                    "only_spin": 0.67
+                },
+                "4": {
+                    "only_spin": 1.0
+                },
+                "5": {
+                    "only_spin": 1.09
+                },
+                "6": {
+                    "only_spin": 1.15
+                },
+                "7": {
+                    "only_spin": 1.22
+                },
+                "8": {
+                    "only_spin": 1.28
+                }
+            },
+            "2": {
+                "4": {
+                    "only_spin": 0.79
+                },
+                "6": {
+                    "only_spin": 0.94
+                }
+            },
+            "3": {
+                "4": {
+                    "only_spin": 0.67
+                },
+                "6": {
+                    "only_spin": 0.75
+                }
+            }
+        },
+        "electric_pol": 7.2,
+        "Valence": {
+            "1": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.441,
+                "tot": 9.441
+            },
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 8.632,
+                "tot": 8.632
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.729,
+                "tot": 7.729
+            }
+        }
+    },
+    "Cd": {
+        "MagneticType": "反磁性",
+        "Homo": "-32.26 eV",
+        "Lumo": "-20.55 eV",
+        "HomoLumoGap": "11.71 eV",
+        "HeatOfFusion": "6.3 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.78
+                },
+                "5": {
+                    "only_spin": 0.87
+                },
+                "6": {
+                    "only_spin": 0.95
+                },
+                "7": {
+                    "only_spin": 1.03
+                },
+                "8": {
+                    "only_spin": 1.1
+                },
+                "12": {
+                    "only_spin": 1.31
+                }
+            }
+        },
+        "electric_pol": 7.36,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.639,
+                "tot": 9.639
+            }
+        }
+    },
+    "In": {
+        "MagneticType": "反磁性",
+        "Homo": "-49.91 eV",
+        "Lumo": "-32.2 eV",
+        "HomoLumoGap": "17.71 eV",
+        "HeatOfFusion": "3.26 kJ/mol",
+        "Shannon_radii": {
+            "1": {"6": {"only_spin":0.92}},
+            "3": {
+                "4": {
+                    "only_spin": 0.62
+                },
+                "6": {
+                    "only_spin": 0.8
+                },
+                "8": {
+                    "only_spin": 0.92
+                }
+            }
+        },
+        "electric_pol": 10.2,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.883,
+                "tot": 9.883
+            }
+        }
+    },
+    "Sn": {
+        "MagneticType": "反磁性",
+        "Homo": "-69.89 eV",
+        "Lumo": "-45.44 eV",
+        "HomoLumoGap": "24.45 eV",
+        "HeatOfFusion": "7 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.15
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.55
+                },
+                "5": {
+                    "only_spin": 0.62
+                },
+                "6": {
+                    "only_spin": 0.69
+                },
+                "7": {
+                    "only_spin": 0.75
+                },
+                "8": {
+                    "only_spin": 0.81
+                }
+            }
+        },
+        "electric_pol": 7.7,
+        "Valence": {
+            "2": {
+                "s": 1.502,
+                "p": 0.0,
+                "d": 9.932,
+                "tot": 11.434
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.937,
+                "tot": 9.937
+            }
+        }
+    },
+    "Sb": {
+        "MagneticType": "反磁性",
+        "Homo": "-39.9 eV",
+        "Lumo": "-28.25 eV",
+        "HomoLumoGap": "11.65 eV",
+        "HeatOfFusion": "19.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "4": {
+                    "only_spin": 0.74
+                },
+                "5": {
+                    "only_spin": 0.8
+                },
+                "6": {
+                    "only_spin": 0.76
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.6
+                }
+            }
+        },
+        "electric_pol": 6.6,
+        "Valence": {
+            "3": {
+                "s": 1.437,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.437
+            },
+            "5": {
+                "s": 1.244,
+                "p": 1.024,
+                "d": 0.0,
+                "tot": 2.267
+            }
+        }
+    },
+    "Te": {
+        "MagneticType": "反磁性",
+        "Homo": "4.55 eV",
+        "Lumo": "7.81 eV",
+        "HomoLumoGap": "3.26 eV",
+        "HeatOfFusion": "17.5 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "3": {
+                    "only_spin": 0.52
+                },
+                "4": {
+                    "only_spin": 0.66
+                },
+                "6": {
+                    "only_spin": 0.97
+                }
+            },
+            "-2": {
+                "6": {
+                    "only_spin": 2.21
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.43
+                },
+                "6": {
+                    "only_spin": 0.56
+                }
+            }
+        },
+        "electric_pol": 5.5,
+        "Valence": {
+            "4": {
+                "s": 1.595,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.595
+            },
+            "-2": {
+                "s": 1.352,
+                "p": 2.08,
+                "d": 0.0,
+                "tot": 3.432
+            },
+            "6": {
+                "s": 1.414,
+                "p": 1.784,
+                "d": 0.0,
+                "tot": 3.198
+            }
+        }
+    },
+    "I": {
+        "MagneticType": "反磁性",
+        "Homo": "-0.86 eV",
+        "Lumo": "4.99 eV",
+        "HomoLumoGap": "5.85 eV",
+        "HeatOfFusion": "7.76 kJ/mol",
+        "Shannon_radii": {
+            "5": {
+                "3": {
+                    "only_spin": 0.44
+                },
+                "6": {
+                    "only_spin": 0.95
+                }
+            },
+            "-1": {
+                "6": {
+                    "only_spin": 2.2
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.42
+                },
+                "6": {
+                    "only_spin": 0.53
+                }
+            }
+        },
+        "electric_pol": 5.35,
+        "Valence": {
+            "5": {
+                "s": 1.69,
+                "p": 0.0,
+                "d": 0.0,
+                "tot": 1.69
+            },
+            "-1": {
+                "s": 1.494,
+                "p": 2.851,
+                "d": 0.0,
+                "tot": 4.345
+            },
+            "7": {
+                "s": 1.528,
+                "p": 2.633,
+                "d": 0.0,
+                "tot": 4.16
+            }
+        }
+    },
+    "Xe": {
+        "MagneticType": "反磁性",
+        "HeatOfFusion": "2.3 kJ/mol",
+        "Shannon_radii": {
+            "8": {
+                "4": {
+                    "only_spin": 0.4
+                },
+                "6": {
+                    "only_spin": 0.48
+                }
+            }
+        },
+        "electric_pol": 4.044,
+        "Valence": {
+            "8": {
+                "s": 1.734,
+                "p": 4.065,
+                "d": 0.0,
+                "tot": 5.8
+            }
+        }
+    },
+    "Cs": {
+        "MagneticType": "顺磁性",
+        "Homo": "-19.83 eV",
+        "Lumo": "-5.4 eV",
+        "HomoLumoGap": "14.43 eV",
+        "HeatOfFusion": "2.09 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.67
+                },
+                "8": {
+                    "only_spin": 1.74
+                },
+                "9": {
+                    "only_spin": 1.78
+                },
+                "10": {
+                    "only_spin": 1.81
+                },
+                "11": {
+                    "only_spin": 1.85
+                },
+                "12": {
+                    "only_spin": 1.88
+                }
+            }
+        },
+        "electric_pol": 59.6,
+        "Valence": {
+            "1": {
+                "s": 1.831,
+                "p": 4.696,
+                "d": 0.0,
+                "tot": 6.526
+            }
+        }
+    },
+    "Ba": {
+        "MagneticType": "顺磁性",
+        "Homo": "-32.17 eV",
+        "Lumo": "-12.21 eV",
+        "HomoLumoGap": "19.97 eV",
+        "HeatOfFusion": "8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.35
+                },
+                "7": {
+                    "only_spin": 1.38
+                },
+                "8": {
+                    "only_spin": 1.42
+                },
+                "9": {
+                    "only_spin": 1.47
+                },
+                "10": {
+                    "only_spin": 1.52
+                },
+                "11": {
+                    "only_spin": 1.57
+                },
+                "12": {
+                    "only_spin": 1.61
+                }
+            }
+        },
+        "electric_pol": 39.7,
+        "Valence": {
+            "2": {
+                "s": 1.964,
+                "p": 5.603,
+                "d": 0.0,
+                "tot": 7.566
+            }
+        }
+    },
+    "La": {
+        "MagneticType": "顺磁性",
+        "Homo": "-46.13 eV",
+        "Lumo": "-22.5 eV",
+        "HomoLumoGap": "23.62 eV",
+        "HeatOfFusion": "6.2 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.032
+                },
+                "7": {
+                    "only_spin": 1.1
+                },
+                "8": {
+                    "only_spin": 1.16
+                },
+                "9": {
+                    "only_spin": 1.216
+                },
+                "10": {
+                    "only_spin": 1.27
+                },
+                "12": {
+                    "only_spin": 1.36
+                }
+            }
+        },
+        "electric_pol": 31.1,
+        "Valence": {
+            "3": {
+                "s": 1.947,
+                "p": 5.688,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.635
+            }
+        }
+    },
+    "Ce": {
+        "MagneticType": "顺磁性",
+        "Homo": "-61.53 eV",
+        "Lumo": "-44.48 eV",
+        "HomoLumoGap": "17.04 eV",
+        "HeatOfFusion": "5.5 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.01
+                },
+                "7": {
+                    "only_spin": 1.07
+                },
+                "8": {
+                    "only_spin": 1.143
+                },
+                "9": {
+                    "only_spin": 1.196
+                },
+                "10": {
+                    "only_spin": 1.25
+                },
+                "12": {
+                    "only_spin": 1.34
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.87
+                },
+                "8": {
+                    "only_spin": 0.97
+                },
+                "10": {
+                    "only_spin": 1.07
+                },
+                "12": {
+                    "only_spin": 1.14
+                }
+            }
+        },
+        "electric_pol": 29.6,
+        "Valence": {
+            "3": {
+                "s": 1.971,
+                "p": 5.76,
+                "d": 0.0,
+                "f": 0.985,
+                "tot": 8.716
+            },
+            "4": {
+                "s": 1.858,
+                "p": 5.793,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.651
+            }
+        }
+    },
+    "Pr": {
+        "MagneticType": "顺磁性",
+        "Homo": "-32.84 eV",
+        "Lumo": "-27.1 eV",
+        "HomoLumoGap": "5.73 eV",
+        "HeatOfFusion": "6.9 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.99
+                },
+                "8": {
+                    "only_spin": 1.126
+                },
+                "9": {
+                    "only_spin": 1.179
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.85
+                },
+                "8": {
+                    "only_spin": 0.96
+                }
+            }
+        },
+        "electric_pol": 28.2,
+        "Valence": {
+            "3": {
+                "s": 1.974,
+                "p": 5.752,
+                "d": 0.0,
+                "tot": 7.727
+            },
+            "4": {
+                "s": 1.973,
+                "p": 4.834,
+                "d": 0.0,
+                "tot": 6.807
+            }
+        }
+    },
+    "Nd": {
+        "MagneticType": "顺磁性",
+        "Homo": "-33.79 eV",
+        "Lumo": "-27.95 eV",
+        "HomoLumoGap": "5.84 eV",
+        "HeatOfFusion": "7.1 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "8": {
+                    "only_spin": 1.29
+                },
+                "9": {
+                    "only_spin": 1.35
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.983
+                },
+                "8": {
+                    "only_spin": 1.109
+                },
+                "9": {
+                    "only_spin": 1.163
+                },
+                "12": {
+                    "only_spin": 1.27
+                }
+            }
+        },
+        "electric_pol": 31.4,
+        "Valence": {
+            "2": {
+                "s": 1.99,
+                "p": 5.758,
+                "d": 0.6,
+                "tot": 8.348
+            },
+            "3": {
+                "s": 1.979,
+                "p": 5.794,
+                "d": 0.0,
+                "tot": 7.773
+            }
+        }
+    },
+    "Pm": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "7.7 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.97
+                },
+                "8": {
+                    "only_spin": 1.093
+                },
+                "9": {
+                    "only_spin": 1.1440000000000001
+                }
+            }
+        },
+        "electric_pol": 30.1,
+        "Valence": {
+            "3": {
+                "s": 1.993,
+                "p": 5.83,
+                "d": 0.0,
+                "tot": 7.822
+            }
+        }
+    },
+    "Sm": {
+        "MagneticType": "顺磁性",
+        "Homo": "-35.8 eV",
+        "Lumo": "-28.33 eV",
+        "HomoLumoGap": "7.47 eV",
+        "HeatOfFusion": "8.6 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "7": {
+                    "only_spin": 1.22
+                },
+                "8": {
+                    "only_spin": 1.27
+                },
+                "9": {
+                    "only_spin": 1.32
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.958
+                },
+                "7": {
+                    "only_spin": 1.02
+                },
+                "8": {
+                    "only_spin": 1.079
+                },
+                "9": {
+                    "only_spin": 1.1320000000000001
+                },
+                "12": {
+                    "only_spin": 1.24
+                }
+            }
+        },
+        "electric_pol": 28.8,
+        "Valence": {
+            "2": {
+                "s": 2.037,
+                "p": 5.841,
+                "d": 0.539,
+                "tot": 8.417
+            },
+            "3": {
+                "s": 1.99,
+                "p": 5.865,
+                "d": 0.0,
+                "tot": 7.854
+            }
+        }
+    },
+    "Eu": {
+        "MagneticType": "顺磁性",
+        "Homo": "-36.96 eV",
+        "Lumo": "-27.75 eV",
+        "HomoLumoGap": "9.21 eV",
+        "HeatOfFusion": "9.2 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.17
+                },
+                "7": {
+                    "only_spin": 1.2
+                },
+                "8": {
+                    "only_spin": 1.25
+                },
+                "9": {
+                    "only_spin": 1.3
+                },
+                "10": {
+                    "only_spin": 1.35
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.9470000000000001
+                },
+                "7": {
+                    "only_spin": 1.01
+                },
+                "8": {
+                    "only_spin": 1.0659999999999998
+                },
+                "9": {
+                    "only_spin": 1.12
+                }
+            }
+        },
+        "electric_pol": 27.7,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 5.95,
+                "d": 0.0,
+                "tot": 5.95
+            },
+            "3": {
+                "s": 0.0,
+                "p": 4.925,
+                "d": 0.0,
+                "tot": 4.925
+            }
+        }
+    },
+    "Gd": {
+        "MagneticType": "铁磁性",
+        "Homo": "-38.13 eV",
+        "Lumo": "-26.76 eV",
+        "HomoLumoGap": "11.37 eV",
+        "HeatOfFusion": "10 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.938
+                },
+                "7": {
+                    "only_spin": 1.0
+                },
+                "8": {
+                    "only_spin": 1.053
+                },
+                "9": {
+                    "only_spin": 1.107
+                }
+            }
+        },
+        "electric_pol": 23.5,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.908,
+                "d": 0.0,
+                "tot": 5.908
+            }
+        }
+    },
+    "Tb": {
+        "MagneticType": "顺磁性",
+        "Homo": "-37.67 eV",
+        "Lumo": "-27.94 eV",
+        "HomoLumoGap": "9.72 eV",
+        "HeatOfFusion": "10.8 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.9229999999999999
+                },
+                "7": {
+                    "only_spin": 0.98
+                },
+                "8": {
+                    "only_spin": 1.04
+                },
+                "9": {
+                    "only_spin": 1.095
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.76
+                },
+                "8": {
+                    "only_spin": 0.88
+                }
+            }
+        },
+        "electric_pol": 25.5,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.916,
+                "d": 0.0,
+                "tot": 5.916
+            },
+            "4": {
+                "s": 0.0,
+                "p": 4.91,
+                "d": 0.0,
+                "tot": 4.91
+            }
+        }
+    },
+    "Dy": {
+        "MagneticType": "顺磁性",
+        "Homo": "-37.62 eV",
+        "Lumo": "-29.23 eV",
+        "HomoLumoGap": "8.39 eV",
+        "HeatOfFusion": "11.1 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.07
+                },
+                "7": {
+                    "only_spin": 1.13
+                },
+                "8": {
+                    "only_spin": 1.19
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.912
+                },
+                "7": {
+                    "only_spin": 0.97
+                },
+                "8": {
+                    "only_spin": 1.0270000000000001
+                },
+                "9": {
+                    "only_spin": 1.083
+                }
+            }
+        },
+        "electric_pol": 24.5,
+        "Valence": {
+            "2": {
+                "s": 0.326,
+                "p": 5.931,
+                "d": 0.189,
+                "tot": 6.446
+            },
+            "3": {
+                "s": 0.0,
+                "p": 5.923,
+                "d": 0.0,
+                "tot": 5.923
+            }
+        }
+    },
+    "Ho": {
+        "MagneticType": "顺磁性",
+        "Homo": "-38.47 eV",
+        "Lumo": "-30.21 eV",
+        "HomoLumoGap": "8.26 eV",
+        "HeatOfFusion": "17 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.9009999999999999
+                },
+                "8": {
+                    "only_spin": 1.015
+                },
+                "9": {
+                    "only_spin": 1.072
+                },
+                "10": {
+                    "only_spin": 1.12
+                }
+            }
+        },
+        "electric_pol": 23.6,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.931,
+                "d": 0.0,
+                "tot": 5.931
+            }
+        }
+    },
+    "Er": {
+        "MagneticType": "顺磁性",
+        "Homo": "-38.62 eV",
+        "Lumo": "-29.44 eV",
+        "HomoLumoGap": "9.18 eV",
+        "HeatOfFusion": "19.9 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.89
+                },
+                "7": {
+                    "only_spin": 0.945
+                },
+                "8": {
+                    "only_spin": 1.004
+                },
+                "9": {
+                    "only_spin": 1.062
+                }
+            }
+        },
+        "electric_pol": 22.7,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.938,
+                "d": 0.0,
+                "tot": 5.938
+            }
+        }
+    },
+    "Tm": {
+        "MagneticType": "顺磁性",
+        "Homo": "-37.98 eV",
+        "Lumo": "-30.5 eV",
+        "HomoLumoGap": "7.48 eV",
+        "HeatOfFusion": "16.8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.03
+                },
+                "7": {
+                    "only_spin": 1.09
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.88
+                },
+                "8": {
+                    "only_spin": 0.9940000000000001
+                },
+                "9": {
+                    "only_spin": 1.052
+                }
+            }
+        },
+        "electric_pol": 21.8,
+        "Valence": {
+            "2": {
+                "s": 0.497,
+                "p": 5.951,
+                "d": 0.01,
+                "tot": 6.458
+            },
+            "3": {
+                "s": 0.0,
+                "p": 5.948,
+                "d": 0.0,
+                "tot": 5.948
+            }
+        }
+    },
+    "Yb": {
+        "MagneticType": "顺磁性",
+        "Homo": "-40.57 eV",
+        "Lumo": "-32.79 eV",
+        "HomoLumoGap": "7.79 eV",
+        "HeatOfFusion": "7.7 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.02
+                },
+                "7": {
+                    "only_spin": 1.08
+                },
+                "8": {
+                    "only_spin": 1.14
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.868
+                },
+                "7": {
+                    "only_spin": 0.925
+                },
+                "8": {
+                    "only_spin": 0.985
+                },
+                "9": {
+                    "only_spin": 1.042
+                }
+            }
+        },
+        "electric_pol": 20.9,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 5.957,
+                "d": 0.0,
+                "tot": 5.957
+            },
+            "3": {
+                "s": 0.0,
+                "p": 4.945,
+                "d": 0.0,
+                "tot": 4.945
+            }
+        }
+    },
+    "Lu": {
+        "MagneticType": "顺磁性",
+        "Homo": "-29.19 eV",
+        "Lumo": "-26.35 eV",
+        "HomoLumoGap": "2.83 eV",
+        "HeatOfFusion": "22 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.861
+                },
+                "8": {
+                    "only_spin": 0.977
+                },
+                "9": {
+                    "only_spin": 1.032
+                }
+            }
+        },
+        "electric_pol": 21.9,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.948,
+                "d": 0.0,
+                "tot": 5.948
+            }
+        }
+    },
+    "Hf": {
+        "MagneticType": "顺磁性",
+        "Homo": "-61.01 eV",
+        "Lumo": "-37.71 eV",
+        "HomoLumoGap": "23.29 eV",
+        "HeatOfFusion": "25.5 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "4": {
+                    "only_spin": 0.58
+                },
+                "6": {
+                    "only_spin": 0.71
+                },
+                "7": {
+                    "only_spin": 0.76
+                },
+                "8": {
+                    "only_spin": 0.83
+                }
+            }
+        },
+        "electric_pol": 16.2,
+        "Valence": {
+            "4": {
+                "s": 0.0,
+                "p": 5.873,
+                "d": 0.0,
+                "tot": 5.873
+            }
+        }
+    },
+    "Ta": {
+        "MagneticType": "顺磁性",
+        "Homo": "-85.73 eV",
+        "Lumo": "-52.95 eV",
+        "HomoLumoGap": "32.78 eV",
+        "HeatOfFusion": "36 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.72
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.68
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.64
+                },
+                "7": {
+                    "only_spin": 0.69
+                },
+                "8": {
+                    "only_spin": 0.74
+                }
+            }
+        },
+        "electric_pol": 13.1,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 5.923,
+                "d": 1.665,
+                "tot": 7.587
+            },
+            "4": {
+                "s": 0.0,
+                "p": 5.931,
+                "d": 0.889,
+                "tot": 6.82
+            },
+            "5": {
+                "s": 0.0,
+                "p": 5.938,
+                "d": 0.0,
+                "tot": 5.938
+            }
+        }
+    },
+    "W": {
+        "MagneticType": "顺磁性",
+        "Homo": "-112.88 eV",
+        "Lumo": "-69.73 eV",
+        "HomoLumoGap": "43.14 eV",
+        "HeatOfFusion": "35 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.66
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.62
+                }
+            },
+            "6": {
+                "4": {
+                    "only_spin": 0.42
+                },
+                "5": {
+                    "only_spin": 0.51
+                },
+                "6": {
+                    "only_spin": 0.6
+                }
+            }
+        },
+        "electric_pol": 11.1,
+        "Valence": {
+            "4": {
+                "s": 1.995,
+                "p": 5.943,
+                "d": 1.779,
+                "tot": 9.717
+            },
+            "5": {
+                "s": 1.992,
+                "p": 5.942,
+                "d": 0.911,
+                "tot": 8.845
+            },
+            "6": {
+                "s": 1.99,
+                "p": 5.94,
+                "d": 0.0,
+                "tot": 7.93
+            }
+        }
+    },
+    "Re": {
+        "MagneticType": "顺磁性",
+        "Homo": "-140.75 eV",
+        "Lumo": "-87.95 eV",
+        "HomoLumoGap": "52.81 eV",
+        "HeatOfFusion": "33 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.63
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.58
+                }
+            },
+            "6": {
+                "6": {
+                    "only_spin": 0.55
+                }
+            },
+            "7": {
+                "4": {
+                    "only_spin": 0.38
+                },
+                "6": {
+                    "only_spin": 0.53
+                }
+            }
+        },
+        "electric_pol": 9.7,
+        "Valence": {
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 2.715,
+                "tot": 2.715
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 1.815,
+                "tot": 1.815
+            },
+            "6": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 0.915,
+                "tot": 0.915
+            },
+            "7": {
+                "s": 0.819,
+                "p": 0.0,
+                "d": 4.192,
+                "tot": 5.011
+            }
+        }
+    },
+    "Os": {
+        "MagneticType": "顺磁性",
+        "Homo": "-50.53 eV",
+        "Lumo": "-45.99 eV",
+        "HomoLumoGap": "4.55 eV",
+        "HeatOfFusion": "31 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.63
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.575
+                }
+            },
+            "6": {
+                "5": {
+                    "only_spin": 0.49
+                },
+                "6": {
+                    "only_spin": 0.545
+                }
+            },
+            "7": {
+                "6": {
+                    "only_spin": 0.525
+                }
+            },
+            "8": {
+                "4": {
+                    "only_spin": 0.39
+                }
+            }
+        },
+        "Valence": {
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 3.85,
+                "tot": 3.85
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 2.928,
+                "tot": 2.928
+            },
+            "6": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 1.97,
+                "tot": 1.97
+            },
+            "7": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 0.991,
+                "tot": 0.991
+            },
+            "8": {
+                "s": 0.818,
+                "p": 0.0,
+                "d": 5.393,
+                "tot": 6.212
+            }
+        }
+    },
+    "Ir": {
+        "MagneticType": "顺磁性",
+        "Homo": "-53.51 eV",
+        "Lumo": "-46.75 eV",
+        "HomoLumoGap": "6.77 eV",
+        "HeatOfFusion": "26 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.68
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.625
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.57
+                }
+            }
+        },
+        "electric_pol": 7.6,
+        "Valence": {
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.589,
+                "tot": 5.589
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 4.69,
+                "tot": 4.69
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 3.799,
+                "tot": 3.799
+            }
+        }
+    },
+    "Pt": {
+        "MagneticType": "顺磁性",
+        "Homo": "-54.55 eV",
+        "Lumo": "-49.65 eV",
+        "HomoLumoGap": "4.9 eV",
+        "HeatOfFusion": "20 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.6
+                },
+                "6": {
+                    "only_spin": 0.8
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.625
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.57
+                }
+            }
+        },
+        "electric_pol": 6.5,
+        "Valence": {
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.527,
+                "tot": 7.527
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.716,
+                "tot": 5.716
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 4.788,
+                "tot": 4.788
+            }
+        }
+    },
+    "Au": {
+        "MagneticType": "反磁性",
+        "Homo": "-42.5 eV",
+        "Lumo": "-37.73 eV",
+        "HomoLumoGap": "4.77 eV",
+        "HeatOfFusion": "12.5 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.37
+                }
+            },
+            "3": {
+                "4": {
+                    "only_spin": 0.68
+                },
+                "6": {
+                    "only_spin": 0.85
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.57
+                }
+            }
+        },
+        "electric_pol": 5.8,
+        "Valence": {
+            "1": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.185,
+                "tot": 9.185
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 7.613,
+                "tot": 7.613
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 5.785,
+                "tot": 5.785
+            }
+        }
+    },
+    "Hg": {
+        "MagneticType": "反磁性",
+        "Homo": "-30.32 eV",
+        "Lumo": "-22.38 eV",
+        "HomoLumoGap": "7.94 eV",
+        "HeatOfFusion": "2.29 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "3": {
+                    "only_spin": 0.97
+                },
+                "6": {
+                    "only_spin": 1.19
+                }
+            },
+            "2": {
+                "2": {
+                    "only_spin": 0.69
+                },
+                "4": {
+                    "only_spin": 0.96
+                },
+                "6": {
+                    "only_spin": 1.02
+                },
+                "8": {
+                    "only_spin": 1.14
+                }
+            }
+        },
+        "electric_pol": 5.02,
+        "Valence": {
+            "1": {
+                "s": 0.59,
+                "p": 0.0,
+                "d": 9.469,
+                "tot": 10.059
+            },
+            "2": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.547,
+                "tot": 9.547
+            }
+        }
+    },
+    "Tl": {
+        "MagneticType": "反磁性",
+        "Homo": "-17.09 eV",
+        "Lumo": "-7.81 eV",
+        "HomoLumoGap": "9.28 eV",
+        "HeatOfFusion": "4.2 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.5
+                },
+                "8": {
+                    "only_spin": 1.59
+                },
+                "12": {
+                    "only_spin": 1.7
+                }
+            },
+            "3": {
+                "4": {
+                    "only_spin": 0.75
+                },
+                "6": {
+                    "only_spin": 0.885
+                },
+                "8": {
+                    "only_spin": 0.98
+                }
+            }
+        },
+        "electric_pol": 7.6,
+        "Valence": {
+            "1": {
+                "s": 1.318,
+                "p": 0.0,
+                "d": 9.668,
+                "tot": 10.986
+            },
+            "3": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.749,
+                "tot": 9.749
+            }
+        }
+    },
+    "Pb": {
+        "MagneticType": "反磁性",
+        "Homo": "-28.28 eV",
+        "Lumo": "-16.73 eV",
+        "HomoLumoGap": "11.55 eV",
+        "HeatOfFusion": "4.77 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "4": {
+                    "only_spin": 0.98
+                },
+                "6": {
+                    "only_spin": 1.19
+                },
+                "7": {
+                    "only_spin": 1.23
+                },
+                "8": {
+                    "only_spin": 1.29
+                },
+                "9": {
+                    "only_spin": 1.35
+                },
+                "10": {
+                    "only_spin": 1.4
+                },
+                "11": {
+                    "only_spin": 1.45
+                },
+                "12": {
+                    "only_spin": 1.49
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.65
+                },
+                "5": {
+                    "only_spin": 0.73
+                },
+                "6": {
+                    "only_spin": 0.775
+                },
+                "8": {
+                    "only_spin": 0.94
+                }
+            }
+        },
+        "electric_pol": 6.98,
+        "Valence": {
+            "2": {
+                "s": 1.535,
+                "p": 0.0,
+                "d": 9.828,
+                "tot": 11.363
+            },
+            "4": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.864,
+                "tot": 9.864
+            }
+        }
+    },
+    "Bi": {
+        "MagneticType": "反磁性",
+        "Homo": "-40.87 eV",
+        "Lumo": "-27.1 eV",
+        "HomoLumoGap": "13.77 eV",
+        "HeatOfFusion": "10.9 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "5": {
+                    "only_spin": 0.96
+                },
+                "6": {
+                    "only_spin": 1.03
+                },
+                "8": {
+                    "only_spin": 1.17
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.76
+                }
+            }
+        },
+        "electric_pol": 7.4,
+        "Valence": {
+            "3": {
+                "s": 1.708,
+                "p": 0.0,
+                "d": 9.907,
+                "tot": 11.616
+            },
+            "5": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.913,
+                "tot": 9.913
+            }
+        }
+    },
+    "Po": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "13 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.94
+                },
+                "8": {
+                    "only_spin": 1.08
+                }
+            },
+            "6": {
+                "6": {
+                    "only_spin": 0.67
+                }
+            }
+        },
+        "electric_pol": 6.8,
+        "Valence": {
+            "4": {
+                "s": 1.699,
+                "p": 0.0,
+                "d": 9.918,
+                "tot": 11.617
+            },
+            "6": {
+                "s": 0.0,
+                "p": 0.0,
+                "d": 9.931,
+                "tot": 9.931
+            }
+        }
+    },
+    "At": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "6 kJ/mol",
+        "Shannon_radii": {
+            "7": {
+                "6": {
+                    "only_spin": 0.62
+                }
+            }
+        },
+        "electric_pol": 6.0,
+        "Valence": {
+            "7": {
+                "s": 1.798,
+                "p": 3.187,
+                "d": 0.0,
+                "tot": 4.985
+            }
+        }
+    },
+    "Rn": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "3 kJ/mol",
+        "electric_pol": 5.3
+    },
+    "Fr": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "2 kJ/mol",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.8
+                }
+            }
+        },
+        "electric_pol": 48.6,
+        "Valence": {
+            "1": {
+                "s": 1.939,
+                "p": 5.162,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.101
+            }
+        }
+    },
+    "Ra": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "8 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "8": {
+                    "only_spin": 1.48
+                },
+                "12": {
+                    "only_spin": 1.7
+                }
+            }
+        },
+        "electric_pol": 38.3,
+        "Valence": {
+            "2": {
+                "s": 1.943,
+                "p": 5.276,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.219
+            }
+        }
+    },
+    "Ac": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "14 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.12
+                }
+            }
+        },
+        "electric_pol": 32.1,
+        "Valence": {
+            "3": {
+                "s": 1.971,
+                "p": 5.648,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.619
+            }
+        }
+    },
+    "Th": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "16 kJ/mol",
+        "Shannon_radii": {
+            "4": {
+                "6": {
+                    "only_spin": 0.94
+                },
+                "8": {
+                    "only_spin": 1.05
+                },
+                "9": {
+                    "only_spin": 1.09
+                },
+                "10": {
+                    "only_spin": 1.13
+                },
+                "11": {
+                    "only_spin": 1.18
+                },
+                "12": {
+                    "only_spin": 1.21
+                }
+            }
+        },
+        "electric_pol": 32.1,
+        "Valence": {
+            "4": {
+                "s": 1.969,
+                "p": 5.728,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.697
+            }
+        }
+    },
+    "Pa": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "15 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.04
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.9
+                },
+                "8": {
+                    "only_spin": 1.01
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.78
+                },
+                "8": {
+                    "only_spin": 0.91
+                },
+                "9": {
+                    "only_spin": 0.95
+                }
+            }
+        },
+        "electric_pol": 25.4,
+        "Valence": {
+            "3": {
+                "s": 1.989,
+                "p": 5.701,
+                "d": 0.0,
+                "f": 1.935,
+                "tot": 9.625
+            },
+            "4": {
+                "s": 1.989,
+                "p": 5.765,
+                "d": 0.0,
+                "f": 0.974,
+                "tot": 8.728
+            },
+            "5": {
+                "s": 1.992,
+                "p": 5.861,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.854
+            }
+        }
+    },
+    "U": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "14 kJ/mol",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.025
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.89
+                },
+                "7": {
+                    "only_spin": 0.95
+                },
+                "8": {
+                    "only_spin": 1.0
+                },
+                "9": {
+                    "only_spin": 1.05
+                },
+                "12": {
+                    "only_spin": 1.17
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.76
+                },
+                "7": {
+                    "only_spin": 0.84
+                }
+            },
+            "6": {
+                "2": {
+                    "only_spin": 0.45
+                },
+                "4": {
+                    "only_spin": 0.52
+                },
+                "6": {
+                    "only_spin": 0.73
+                },
+                "7": {
+                    "only_spin": 0.81
+                },
+                "8": {
+                    "only_spin": 0.86
+                }
+            }
+        },
+        "electric_pol": 24.9,
+        "Valence": {
+            "3": {
+                "s": 2.007,
+                "p": 5.819,
+                "d": 0.0,
+                "f": 2.939,
+                "tot": 10.764
+            },
+            "4": {
+                "s": 1.993,
+                "p": 5.859,
+                "d": 0.0,
+                "f": 1.962,
+                "tot": 9.814
+            },
+            "5": {
+                "s": 1.981,
+                "p": 5.867,
+                "d": 0.0,
+                "f": 0.981,
+                "tot": 8.829
+            },
+            "6": {
+                "s": 1.978,
+                "p": 5.853,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.831
+            }
+        }
+    },
+    "Np": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "10 kJ/mol",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.1
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 1.01
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.87
+                },
+                "8": {
+                    "only_spin": 0.98
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.75
+                }
+            },
+            "6": {
+                "6": {
+                    "only_spin": 0.72
+                }
+            },
+            "7": {
+                "6": {
+                    "only_spin": 0.71
+                }
+            }
+        },
+        "electric_pol": 24.8,
+        "Valence": {
+            "2": {
+                "s": 2.034,
+                "p": 5.809,
+                "d": 0.001,
+                "f": 4.723,
+                "tot": 12.566
+            },
+            "3": {
+                "s": 1.998,
+                "p": 5.857,
+                "d": 0.0,
+                "f": 3.946,
+                "tot": 11.801
+            },
+            "4": {
+                "s": 2.002,
+                "p": 5.885,
+                "d": 0.0,
+                "f": 2.955,
+                "tot": 10.841
+            },
+            "5": {
+                "s": 2.014,
+                "p": 5.881,
+                "d": 0.0,
+                "f": 1.97,
+                "tot": 9.865
+            },
+            "6": {
+                "s": 2.038,
+                "p": 5.861,
+                "d": 0.0,
+                "f": 0.989,
+                "tot": 8.889
+            },
+            "7": {
+                "s": 2.076,
+                "p": 5.839,
+                "d": 0.0,
+                "f": 0.0,
+                "tot": 7.915
+            }
+        }
+    },
+    "Pu": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 1.0
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.86
+                },
+                "8": {
+                    "only_spin": 0.96
+                }
+            },
+            "5": {
+                "6": {
+                    "only_spin": 0.74
+                }
+            },
+            "6": {
+                "6": {
+                    "only_spin": 0.71
+                }
+            }
+        },
+        "electric_pol": 24.5,
+        "Valence": {
+            "3": {
+                "s": 2.002,
+                "p": 5.897,
+                "d": 0.0,
+                "f": 4.962,
+                "tot": 12.861
+            },
+            "4": {
+                "s": 2.002,
+                "p": 5.914,
+                "d": 0.0,
+                "f": 3.954,
+                "tot": 11.87
+            },
+            "5": {
+                "s": 2.01,
+                "p": 5.902,
+                "d": 0.0,
+                "f": 2.964,
+                "tot": 10.876
+            },
+            "6": {
+                "s": 2.03,
+                "p": 5.878,
+                "d": 0.0,
+                "f": 1.986,
+                "tot": 9.894
+            }
+        }
+    },
+    "Am": {
+        "MagneticType": "顺磁性",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "2": {
+                "7": {
+                    "only_spin": 1.21
+                },
+                "8": {
+                    "only_spin": 1.26
+                },
+                "9": {
+                    "only_spin": 1.31
+                }
+            },
+            "3": {
+                "6": {
+                    "only_spin": 0.975
+                },
+                "8": {
+                    "only_spin": 1.09
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.85
+                },
+                "8": {
+                    "only_spin": 0.95
+                }
+            }
+        },
+        "electric_pol": 23.3,
+        "Valence": {
+            "2": {
+                "s": 2.018,
+                "p": 5.87,
+                "d": 0.0,
+                "f": 6.978,
+                "tot": 14.865
+            },
+            "3": {
+                "s": 2.01,
+                "p": 5.914,
+                "d": 0.0,
+                "f": 5.971,
+                "tot": 13.895
+            },
+            "4": {
+                "s": 2.003,
+                "p": 5.926,
+                "d": 0.0,
+                "f": 4.953,
+                "tot": 12.882
+            }
+        }
+    },
+    "Cm": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "3": {
+                "4": {
+                    "only_spin": 0.97
+                }
+            },
+            "4": {
+                "4": {
+                    "only_spin": 0.85
+                },
+                "8": {
+                    "only_spin": 0.95
+                }
+            }
+        },
+        "electric_pol": 23.0,
+        "Valence": {
+            "3": {
+                "s": 2.004,
+                "p": 6.029,
+                "d": 0.0,
+                "f": 6.929,
+                "tot": 14.961
+            },
+            "4": {
+                "s": 2.001,
+                "p": 5.703,
+                "d": 0.0,
+                "f": 5.944,
+                "tot": 13.648
+            }
+        }
+    },
+    "Bk": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.96
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.83
+                },
+                "8": {
+                    "only_spin": 0.93
+                }
+            }
+        },
+        "electric_pol": 22.7
+    },
+    "Cf": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "3": {
+                "6": {
+                    "only_spin": 0.95
+                }
+            },
+            "4": {
+                "6": {
+                    "only_spin": 0.821
+                },
+                "8": {
+                    "only_spin": 0.92
+                }
+            }
+        },
+        "electric_pol": 20.5,
+        "Valence": {
+            "3": {
+                "s": 1.994,
+                "p": 5.709,
+                "d": 0.0,
+                "f": 8.764,
+                "tot": 16.467
+            },
+            "4": {
+                "s": 1.977,
+                "p": 5.447,
+                "d": 0.0,
+                "f": 7.841,
+                "tot": 15.265
+            }
+        }
+    },
+    "Es": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "electric_pol": 19.7
+    },
+    "Fm": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "electric_pol": 23.8
+    },
+    "Md": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "electric_pol": 18.2
+    },
+    "No": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "2": {
+                "6": {
+                    "only_spin": 1.1
+                }
+            }
+        },
+        "electric_pol": 16.4
+    },
+    "Lr": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Rf": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Db": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Sg": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Bh": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Hs": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Mt": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Ds": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Rg": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Cn": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Nh": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A",
+        "Shannon_radii": {
+            "1": {
+                "6": {
+                    "only_spin": 1.46
+                }
+            }
+        }
+    },
+    "Fl": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Mc": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Lv": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Ts": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    },
+    "Og": {
+        "MagneticType": "N/A",
+        "HeatOfFusion": "N/A"
+    }
+}
